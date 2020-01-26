@@ -11,7 +11,7 @@ On example of what can be done with the output of this script is to use the proc
 
 <img src="https://raw.githubusercontent.com/AndGem/andgem.github.io/master/assets/bremen.png" width="450">
 
-The color indicates the maximum speed a car is allowed to drive (the darker, the higher this maximum is):
+The **color** indicates the maximum speed a car is allowed to drive (the darker, the higher this maximum is):
 
 #### How can this be done?
 
