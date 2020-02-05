@@ -7,7 +7,7 @@ This project might help you to do this faster by providing a *simple* way to par
 
 [[OsmToRoadGraph on Github]](https://github.com/AndGem/OsmToRoadGraph)
 
-On example of what can be done with the output of this script is to use the processed data to generate a visualization. In the picture below, you can see the **road network** of the city of **Bremen, Germany**.
+One example of what can be done with the output of this script is to use the processed data to generate a visualization. In the picture below, you can see the **road network** of the city of **Bremen, Germany**.
 
 <img src="https://raw.githubusercontent.com/AndGem/andgem.github.io/master/assets/bremen.png" width="450">
 
