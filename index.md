@@ -3,7 +3,7 @@
 ### Spanish Covid Results
 
 On this page I'm plotting the spanish covid information gathered from the official Spanish Government's website.
-For this I'm automatically downloading the files published here: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Actualizacion_{%NUMBER%}_COVID-19.pdf
+For this I'm automatically downloading the files published here: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/
 
 Then, a script extracts the table from the first page and adds it to a pandas data frame.
 Finally, plotly is being used to generate the output charts and HTML.
