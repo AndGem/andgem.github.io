@@ -1,5 +1,16 @@
 ## Collection of Thoughts About My Projects
 
+### Spanish Covid Results
+
+On this page I'm plotting the spanish covid information gathered from the official Spanish Government's website.
+For this I'm automatically downloading the files published here: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Actualizacion_{%NUMBER%}_COVID-19.pdf
+
+Then, a script extracts the table from the first page and adds it to a pandas data frame.
+Finally, plotly is being used to generate the output charts and HTML.
+
+The result can be foudn here: [Spanish Covid Data](/spain-covid.html)
+
+
 ### Visualizing the Road Network of a City
 
 Ever wanted to get the **road network** of a city, a country or some other region in the world?
